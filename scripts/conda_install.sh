@@ -1,4 +1,4 @@
-conda install -c soumith pytorch
+conda install pytorch=0.3.1
 
 conda install torchvision scikit-image tqdm matplotlib cython
 
